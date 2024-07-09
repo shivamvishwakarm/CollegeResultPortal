@@ -9,7 +9,7 @@ const cors_1 = __importDefault(require("cors"));
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 const app = (0, express_1.default)();
-const port = 5000;
+const port = 3000;
 // Middleware
 app.use(body_parser_1.default.json());
 app.use((0, cors_1.default)());
