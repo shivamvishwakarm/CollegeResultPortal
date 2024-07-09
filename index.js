@@ -21,6 +21,7 @@ const results = JSON.parse(fs.readFileSync('results.json', 'utf-8'));
 // Search endpoint
 app.get('/search', function(req, res) {
     var nameQuery = req.query.name;
+    console.log(nameQuery)
     if (!nameQuery) {
         return res.status(400).json({ error: 'Name query parameter is required' });
     }
