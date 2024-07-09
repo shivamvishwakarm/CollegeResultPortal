@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+</head>
+<body>
+    <h1>Search Your Results</h1>
+    <input type="text" id="name" placeholder="Enter your name">
+    <button onclick="searchResults()">Search</button>
+    <div id="results"></div>
+
+    <script>
+        async function searchResults() {
+            const name = document.getElementById('name').value;
+            console.log('Searching for:', name);
+            try {
+                const response = await fetch(`http://localhost:5000/search?name=${encodeURIComponent(name)}`);
+                console.log('Response:', response)
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                if (!response.headers.get('content-type')?.includes('application/json')) {
+                    throw new Error('Response not JSON');
+                }
+                const results = await response.json();
+    
+                const resultsDiv = document.getElementById('results');
+                resultsDiv.innerHTML = '';
+    
+                if (results.length === 0) {
+                    resultsDiv.innerHTML = '<p>No results found.</p>';
+                } else {
+                    results.forEach(result => {
+                        const resultElement = document.createElement('div');
+                        resultElement.innerHTML = `
+                            <p>Roll No: ${result.roll_no}</p>
+                            <p>Name: ${result.name}</p>
+                            <p>Marks in 3rd year: ${result.total_marks_3rd}/500</p>
+                            <p>Total marks in Honours: ${result.total_marks_hons}/800</p>
+                            <p>Division: ${result.division}</p>
+                            <p>Grand Total: ${result.grand_total}/1500</p>
+                            <hr/>
+                        `;
+                        resultsDiv.appendChild(resultElement);
+                    });
+                }
+            } catch (error) {
+                console.error('Failed to fetch results:', error);
+                document.getElementById('results').innerHTML = '<p>Error fetching results.</p>';
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,753 @@
+[
+  {
+    "roll_no": "2220140050001",
+    "name": "ABHAY ANAND",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "352",
+    "total_marks_hons": "560",
+    "grand_total": "943",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050002",
+    "name": "ABHISHEK KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "321",
+    "total_marks_hons": "505",
+    "grand_total": "899",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050003",
+    "name": "ABHISHEK KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "333",
+    "total_marks_hons": "553",
+    "grand_total": "953",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050004",
+    "name": "ABHISHEK SINGH",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "325",
+    "total_marks_hons": "516",
+    "grand_total": "862",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050005",
+    "name": "ABHISHEK SONI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "347",
+    "total_marks_hons": "580",
+    "grand_total": "980",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050006",
+    "name": "ADITI KUMARI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "307",
+    "total_marks_hons": "502",
+    "grand_total": "874",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050007",
+    "name": "ADITYA ARYAN",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "326",
+    "total_marks_hons": "522",
+    "grand_total": "853",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050008",
+    "name": "ADITYA KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "350",
+    "total_marks_hons": "560",
+    "grand_total": "962",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050009",
+    "name": "ADITYA KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "326",
+    "total_marks_hons": "488",
+    "grand_total": "859"
+  },
+  {
+    "roll_no": "2220140050010",
+    "name": "AKASH PRAJAPATI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "377",
+    "total_marks_hons": "569",
+    "grand_total": "985",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050011",
+    "name": "AMAN BHARDWAJ",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "366",
+    "total_marks_hons": "585",
+    "grand_total": "984",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050012",
+    "name": "AMAN KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "359",
+    "total_marks_hons": "579",
+    "grand_total": "950",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050013",
+    "name": "AMARJEET KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "314",
+    "total_marks_hons": "506",
+    "grand_total": "856",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050015",
+    "name": "ANAND SHANKAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "364",
+    "total_marks_hons": "586",
+    "grand_total": "985",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050016",
+    "name": "ANJANI KUMARI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "340",
+    "total_marks_hons": "523",
+    "grand_total": "889",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050017",
+    "name": "ANKIT KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "327",
+    "total_marks_hons": "507",
+    "grand_total": "851",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050018",
+    "name": "ANKUSH KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "343",
+    "total_marks_hons": "518",
+    "grand_total": "904",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050019",
+    "name": "ANSHUMAN RAJ",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "352",
+    "total_marks_hons": "570",
+    "grand_total": "1021",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050020",
+    "name": "ANURAG KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "331",
+    "total_marks_hons": "540",
+    "grand_total": "913",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050021",
+    "name": "ASHISH KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "325",
+    "total_marks_hons": "546",
+    "grand_total": "913",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050023",
+    "name": "AVINASH JHA",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "317",
+    "total_marks_hons": "509",
+    "grand_total": "874",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050024",
+    "name": "BALBANT KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "318",
+    "total_marks_hons": "516",
+    "grand_total": "888",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050025",
+    "name": "CHANDAN KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "334",
+    "total_marks_hons": "527",
+    "grand_total": "895",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050026",
+    "name": "DIVYANSHI KUMARI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "337",
+    "total_marks_hons": "565",
+    "grand_total": "934",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050027",
+    "name": "GAURAV RAJ",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "346",
+    "total_marks_hons": "559",
+    "grand_total": "944",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050028",
+    "name": "GULSHAN KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "331",
+    "total_marks_hons": "527",
+    "grand_total": "924",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050029",
+    "name": "HARSH KR SINGH",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "350",
+    "total_marks_hons": "544",
+    "grand_total": "935",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050030",
+    "name": "HARSH KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "339",
+    "total_marks_hons": "530",
+    "grand_total": "899",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050031",
+    "name": "KANCHA SINHA",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "347",
+    "total_marks_hons": "533",
+    "grand_total": "896",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050032",
+    "name": "KANCHAN KUMARI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "334",
+    "total_marks_hons": "532",
+    "grand_total": "907",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050033",
+    "name": "KARISHMA KUMARI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "338",
+    "total_marks_hons": "539",
+    "grand_total": "979",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050034",
+    "name": "KISHLAY KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "334",
+    "total_marks_hons": "527",
+    "grand_total": "881",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050035",
+    "name": "KRISHNA KUMAR SINGH",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "346",
+    "total_marks_hons": "530",
+    "grand_total": "931",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050036",
+    "name": "KUMAR GAURAV SINGH",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "323",
+    "total_marks_hons": "541",
+    "grand_total": "944",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050037",
+    "name": "KUMAR VISHAL RAJ",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "314",
+    "total_marks_hons": "506",
+    "grand_total": "855",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050038",
+    "name": "KUNDAN KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "332",
+    "total_marks_hons": "523",
+    "grand_total": "925",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050039",
+    "name": "LAKSHMAN KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "332",
+    "total_marks_hons": "522",
+    "grand_total": "881",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050040",
+    "name": "LAV KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "342",
+    "total_marks_hons": "545",
+    "grand_total": "914",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050041",
+    "name": "MAHESH KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "354",
+    "total_marks_hons": "567",
+    "grand_total": "991",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050042",
+    "name": "MANISH KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "363",
+    "total_marks_hons": "563",
+    "grand_total": "949",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050043",
+    "name": "MANISHA KUMARI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "357",
+    "total_marks_hons": "558",
+    "grand_total": "970",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050044",
+    "name": "MD AFZAL AHMAD",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "354",
+    "total_marks_hons": "511",
+    "grand_total": "903",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050045",
+    "name": "MEGHNA",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "345",
+    "total_marks_hons": "530",
+    "grand_total": "949",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050046",
+    "name": "NEHA KUMARI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "362",
+    "total_marks_hons": "574",
+    "grand_total": "1001",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050047",
+    "name": "NIRUPAM KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "350",
+    "total_marks_hons": "561",
+    "grand_total": "994",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050048",
+    "name": "NISHA SINGH",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "345",
+    "total_marks_hons": "546",
+    "grand_total": "919",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050049",
+    "name": "PRABHAT RANJAN",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "338",
+    "total_marks_hons": "539",
+    "grand_total": "918",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050050",
+    "name": "PRAKASH KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "322",
+    "total_marks_hons": "527",
+    "grand_total": "896",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050052",
+    "name": "PRINCE KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "328",
+    "total_marks_hons": "524",
+    "grand_total": "907",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050053",
+    "name": "PRITHVI NARAYAN SINGH",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "334",
+    "total_marks_hons": "528",
+    "grand_total": "906",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050054",
+    "name": "PUNIT KUMAR PAL",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "345",
+    "total_marks_hons": "580",
+    "grand_total": "956",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050055",
+    "name": "RAHUL KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "348",
+    "total_marks_hons": "564",
+    "grand_total": "976",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050056",
+    "name": "RAHUL KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "337",
+    "total_marks_hons": "517",
+    "grand_total": "889",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050057",
+    "name": "RAHUL KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "322",
+    "total_marks_hons": "515",
+    "grand_total": "919",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050058",
+    "name": "RAHUL KUMAR SINGH",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "337",
+    "total_marks_hons": "542",
+    "grand_total": "943",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050059",
+    "name": "RAJ ANKIT",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "167",
+    "total_marks_hons": "394",
+    "grand_total": "692"
+  },
+  {
+    "roll_no": "2220140050060",
+    "name": "RAJ RAUSHAN",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "333",
+    "total_marks_hons": "501",
+    "grand_total": "870",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050061",
+    "name": "RAJSHEKHAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "170",
+    "total_marks_hons": "401",
+    "grand_total": "715"
+  },
+  {
+    "roll_no": "2220140050063",
+    "name": "RAVI NANDAN KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "346",
+    "total_marks_hons": "559",
+    "grand_total": "960",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050064",
+    "name": "RAVI RANJAN KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "341",
+    "total_marks_hons": "523",
+    "grand_total": "873",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050065",
+    "name": "RISHABH KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "349",
+    "total_marks_hons": "609",
+    "grand_total": "1024",
+    "division": "FIRST CLASS WITH DISTINCTION"
+  },
+  {
+    "roll_no": "2220140050066",
+    "name": "RISHI KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "364",
+    "total_marks_hons": "596",
+    "grand_total": "993",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050067",
+    "name": "RITIK RAUSHAN",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "361",
+    "total_marks_hons": "533",
+    "grand_total": "901",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050068",
+    "name": "RITU  KUMARI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "381",
+    "total_marks_hons": "625",
+    "grand_total": "1091",
+    "division": "FIRST CLASS WITH DISTINCTION"
+  },
+  {
+    "roll_no": "2220140050070",
+    "name": "ROHIT KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "357",
+    "total_marks_hons": "556",
+    "grand_total": "944",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050071",
+    "name": "ROUSHAN KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "351",
+    "total_marks_hons": "542",
+    "grand_total": "927",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050072",
+    "name": "SACHIN KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "338",
+    "total_marks_hons": "547",
+    "grand_total": "932",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050073",
+    "name": "SAKSHI JHA",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "377",
+    "total_marks_hons": "595",
+    "grand_total": "1027",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050074",
+    "name": "SATYAM KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "364",
+    "total_marks_hons": "582",
+    "grand_total": "947",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050075",
+    "name": "SHANTANU KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "307",
+    "total_marks_hons": "493",
+    "grand_total": "805",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050076",
+    "name": "SHISHIR KUMAR TIWARI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "363",
+    "total_marks_hons": "575",
+    "grand_total": "982",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050077",
+    "name": "SHIVAM KUMAR SINGH",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "361",
+    "total_marks_hons": "568",
+    "grand_total": "955",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050078",
+    "name": "SHIVAM VISHWAKARMA",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "332",
+    "total_marks_hons": "571",
+    "grand_total": "956",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050079",
+    "name": "SHIVANI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "343",
+    "total_marks_hons": "563",
+    "grand_total": "956",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050080",
+    "name": "SHUBHAM KUMAR GAURAV",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "316",
+    "total_marks_hons": "512",
+    "grand_total": "866",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050081",
+    "name": "SHWETA KUMARI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "360",
+    "total_marks_hons": "573",
+    "grand_total": "973",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050082",
+    "name": "SURAJ KUMAR",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "320",
+    "total_marks_hons": "505",
+    "grand_total": "866",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050083",
+    "name": "TANU SINGH",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "355",
+    "total_marks_hons": "525",
+    "grand_total": "862"
+  },
+  {
+    "roll_no": "2220140050084",
+    "name": "UTKARSH ANAND",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "324",
+    "total_marks_hons": "510",
+    "grand_total": "812",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050085",
+    "name": "VIKASH PRAJAPATI",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "329",
+    "total_marks_hons": "528",
+    "grand_total": "914",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050086",
+    "name": "VIPUL CHAUHAN",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "320",
+    "total_marks_hons": "522",
+    "grand_total": "904",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050087",
+    "name": "VISHAL KUMAR OJHA",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "165",
+    "total_marks_hons": "396",
+    "grand_total": "723"
+  },
+  {
+    "roll_no": "2220140050088",
+    "name": "VISHAL RAJ",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "328",
+    "total_marks_hons": "526",
+    "grand_total": "876",
+    "division": "FIRST CLASS"
+  },
+  {
+    "roll_no": "2220140050089",
+    "name": "WARISHA AFTAB",
+    "marks": "PRACTICAL, MARKS",
+    "total_marks_3rd": "336",
+    "total_marks_hons": "520",
+    "grand_total": "911",
+    "division": "FIRST CLASS"
+  }
+]
