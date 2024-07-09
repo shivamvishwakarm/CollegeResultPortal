@@ -16,7 +16,8 @@ app.get('/', function(req, res) {
 });
 
 // Load results data from JSON file
-const results = JSON.parse(fs.readFileSync('results.json', 'utf-8'));
+// const results = JSON.parse(fs.readFileSync('results.json', 'utf-8'));
+const results = JSON.parse(fs.readFileSync(path.join(__dirname, 'results.json'), 'utf-8'));
 
 // Search endpoint
 app.get('/search', function(req, res) {
